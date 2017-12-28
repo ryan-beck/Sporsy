@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C26548F1FF432C100706A70 /* sporsy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5C26548E1FF432C100706A70 /* sporsy.jpg */; };
 		5C7B640B1FEF9E3A007356F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7B640A1FEF9E3A007356F6 /* AppDelegate.swift */; };
 		5C7B640D1FEF9E3A007356F6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7B640C1FEF9E3A007356F6 /* ViewController.swift */; };
 		5C7B64101FEF9E3A007356F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C7B640E1FEF9E3A007356F6 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5C26548E1FF432C100706A70 /* sporsy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sporsy.jpg; sourceTree = "<group>"; };
 		5C7B64071FEF9E3A007356F6 /* Sporsy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sporsy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C7B640A1FEF9E3A007356F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5C7B640C1FEF9E3A007356F6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 			children = (
 				5C7B64091FEF9E3A007356F6 /* Sporsy */,
 				5C7B64081FEF9E3A007356F6 /* Products */,
+				5C26548E1FF432C100706A70 /* sporsy.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5C7B64151FEF9E3A007356F6 /* LaunchScreen.storyboard in Resources */,
+				5C26548F1FF432C100706A70 /* sporsy.jpg in Resources */,
 				5C7B64121FEF9E3A007356F6 /* Assets.xcassets in Resources */,
 				5C7B64101FEF9E3A007356F6 /* Main.storyboard in Resources */,
 			);
