@@ -1,12 +1,14 @@
 //
-//  ViewController.swift
+//  ProfileViewController.swift
 //  Sporsy
 //
-//  Created by Ryan Beck on 12/24/17.
-//  Copyright © 2017 Ryan Beck. All rights reserved.
+//  Created by Ryan Beck on 1/10/18.
+//  Copyright © 2018 Ryan Beck. All rights reserved.
 //
 
+import Foundation
 import UIKit
+
 
 class ViewController: UIViewController {
     
@@ -14,12 +16,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
     }
-
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-
+    
+    
 }
-
